@@ -11,7 +11,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **emirhanberber2018@gmail.com**
 
