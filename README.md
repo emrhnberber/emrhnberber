@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan Berber</h1>
-<h3 align="center">Co-Founder & Mobil Application Developer at Alanda.app</h3>
+<h3 align="center">Co-Founder & BaackEnd Developer at Alanda.app</h3>
 
 <div align="center">  
   
